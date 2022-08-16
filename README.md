@@ -1,4 +1,4 @@
-✨HEY THERE! WELCOME TO MY PROFILE!✨
+HEY THERE! WELCOME TO MY PROFILE!
 
 - I'm Manoela Resende, 18y
 - Studying CS at UNIPAMPA since 2022.1
