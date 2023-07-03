@@ -11,10 +11,7 @@
 </br></br>
 
 <div align="center">
-  <a href="https://github.com/manoelargc">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=manoelargc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelargc&layout=compact&langs_count=7&theme=dracula"/> 
-</div>
+ </div>
 
 </br>  
   
