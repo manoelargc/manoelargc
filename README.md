@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manoelargc&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/manoelargc">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelargc&layout=compact&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelargc&layout=compact&show_icons=true&theme=onedark" />
 </a>
 </div>
 </br>  
